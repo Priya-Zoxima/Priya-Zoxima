@@ -1,6 +1,6 @@
-### Hey It's Priya 👋
+## Hey It's Priya 👋
 
-## About Me:
+### About Me:
 
 - 🔭 I’m currently working on Node js 
 - 🌱 I’m currently learning Java
