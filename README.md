@@ -1,6 +1,5 @@
 ### Hey It's Priya 👋
 
-<!--
 **Priya-Zoxima/Priya-Zoxima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about MERN
 - 📫 How to reach me: priya.ranjan@zoxima.com
 - ⚡ Strong Believe: Never Give Up Attitude
--->
